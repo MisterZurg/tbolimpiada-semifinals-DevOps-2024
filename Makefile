@@ -1,6 +1,15 @@
-.PHONY: build cluster deploy destroy
-build:
+.PHONY: all fmt tidy lint test
+all: fmt tidy lint test
 
-deploy:
+fmt:
+	go fmt ./...
 
-destroy:
+tidy:
+	go mod tidy -v
+
+lint:
+	golangci-lint run
+
+test:
+	go clean -testcache
+	go test -v ./...
