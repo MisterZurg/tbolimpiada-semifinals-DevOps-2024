@@ -6,8 +6,8 @@ import (
 )
 
 func main() {
-	grid := hexagon.HexRectangleGrid(47, 21)
+	grid := hexagon.RectangleGrid(47, 21)
 	for _, cell := range grid {
-		fmt.Println(cell.HexGetColor())
+		fmt.Println(cell.GetColor())
 	}
 }

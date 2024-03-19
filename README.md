@@ -1,4 +1,5 @@
 # tbolimpiada_semifinals_DevOps_2024
+![banner.png](banner.png)
 
 [![Go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/github.com/MisterZurg/tbolimpiada_semifinals_DevOps_2024/)
 [![Go Report Card](https://goreportcard.com/badge/github.com/MisterZurg/tbolimpiada_semifinals_DevOps_2024)](https://goreportcard.com/report/github.com/MisterZurg/tbolimpiada_semifinals_DevOps_2024/)
