@@ -10,4 +10,6 @@ func main() {
 	for _, cell := range grid {
 		fmt.Println(cell.GetColor())
 	}
+
+	// TODO: add winning logic
 }

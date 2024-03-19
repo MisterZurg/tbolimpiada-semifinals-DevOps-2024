@@ -99,3 +99,8 @@ func RectangleGrid(width, height int) []Hex {
 
 	return grid
 }
+
+// MakeMove - отвечающая за проверку доступности Гексов и передачу хода другому игроку.
+func MakeMove(h Hex, player int) {
+	// TODO: implement me
+}
