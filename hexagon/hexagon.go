@@ -7,15 +7,6 @@ import (
 
 type direction int
 
-const (
-	directionSE = iota
-	directionNE
-	directionN
-	directionNW
-	directionSW
-	directionS
-)
-
 var directions = []Hex{
 	NewHex(1, 0),
 	NewHex(1, -1),
