@@ -39,5 +39,5 @@
 
 ## Установка
 ```shell
-go get tbolimpiada_semifinals_DevOps_2024
+go get github.com/MisterZurg/tbolimpiada-semifinals-DevOps-2024
 ```
