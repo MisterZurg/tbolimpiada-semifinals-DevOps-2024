@@ -3,7 +3,7 @@ package hexagon_test
 import (
 	"testing"
 
-	"github.com/MisterZurg/tbolimpiada_semifinals_DevOps_2024/hexagon"
+	"github.com/MisterZurg/tbolimpiada-semifinals-DevOps-2024/hexagon"
 )
 
 func TestHex_GetColor(t *testing.T) {
