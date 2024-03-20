@@ -5,8 +5,10 @@ import (
 	"math/rand"
 )
 
+// direction - алиас на int.
 type direction int
 
+// directions - список возможных передвижений по осям.
 var directions = []Hex{
 	NewHex(1, 0),
 	NewHex(1, -1),
