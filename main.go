@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"tbolimpiada_semifinals_DevOps_2024/hexagon"
+
+	"github.com/MisterZurg/tbolimpiada_semifinals_DevOps_2024/hexagon"
 )
 
 func main() {

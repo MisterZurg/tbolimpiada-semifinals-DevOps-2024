@@ -1,8 +1,9 @@
 package hexagon_test
 
 import (
-	"tbolimpiada_semifinals_DevOps_2024/hexagon"
 	"testing"
+
+	"github.com/MisterZurg/tbolimpiada_semifinals_DevOps_2024/hexagon"
 )
 
 func TestHex_GetColor(t *testing.T) {
