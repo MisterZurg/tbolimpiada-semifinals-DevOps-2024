@@ -31,4 +31,4 @@ jobs:
         uses: codecov/codecov-action@v4.0.1
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
-          slug: MisterZurg/avito-tech-internship-2024
+          slug: MisterZurg/tbolimpiada-semifinals-DevOps-2024
